@@ -1,0 +1,6 @@
+# Nenhuma dependência externa obrigatória.
+# Bibliotecas usadas são todas da stdlib:
+#   pathlib, subprocess, dataclasses, random, shutil
+#
+# Apenas para build:
+pyinstaller==6.6.0
